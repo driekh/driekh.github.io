@@ -1,0 +1,51 @@
+<style>
+  #mastodonlinks > a,
+  #mastodonlinks > span
+  {
+  }
+  .mastodontootlink {
+   font-size: medium; 
+  }
+  .mastodontootcontent {
+    font-size: small;
+  }
+</style>
+
+<!-- in element met dit id komt de verwerkte feed als html -->
+<div id="mastodonlinks"></div>
+
+<script>
+
+const maxNumber = 5;
+/* const RSS_URL = `https://mastodon.nl/@driek/with_replies.rss`; */
+const RSS_URL = `https://mastodon.nl/@driek.rss`;
+
+fetch(RSS_URL)
+  .then(response => response.text())
+  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then(data => {
+    const items = data.querySelectorAll("item");
+    /* items is een lijst nodes; gedraagt zich als array, maar is het niet.
+       (ook als het als var wordt gedefinieerd). Daarom kopieren naar een array
+       om daarna de eerste 5 te nemen */
+    var itemsArray = Array.from(items);
+    var max = Math.min(items.length, maxNumber);
+    itemsArray.length = max;
+  
+    let html = ``;
+    itemsArray.forEach(el => {
+      html += `
+        <div class="mastodontoot">
+            <div class="mastodontootcontent">${el.querySelector("description").innerHTML}</div>
+           <span class="mastodontootlink"><a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">${el.querySelector("pubDate").innerHTML}</a></span><br>
+        </div>
+      `;
+    });
+
+  html=html.replace(/&lt;|&gt;/g,function(s){return s==="&lt;"?"<":">"});
+
+  document.getElementById("mastodonlinks").innerHTML = html;
+
+});
+  
+</script>

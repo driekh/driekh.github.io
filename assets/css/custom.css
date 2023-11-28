@@ -1,0 +1,90 @@
+/* override simple.css defaults here */
+
+body > header { 
+
+/*  
+  background-image: url("/assets/img/header-overweg-virm.jpg") ;
+  background-image: url("/assets/img/AVEpassing-1500.jpg") ;
+  background-image: url("/assets/img/luco-bg-1500x500.jpg") ;
+  background-image: url("/assets/img/fulton-750.jpg") ; 
+*/
+
+  {% assign max = site.data.headerimages.size %}
+  {% assign rand = "now" | date: "%N" | modulo: max %}
+  background-image: url("{{ site.data.headerimages[rand].img }}");
+
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-size: cover;
+}
+
+header > nav ul,
+header > nav ol,
+header > nav a {
+  background-color: white;
+  opacity: 0.8;
+  font-weight: bold;
+}
+
+header > nav a.activenavlink {
+  text-decoration: underline;
+}
+
+/* Reduce nav side on mobile */
+@media only screen and (max-width: 720px) {
+  header > nav a {
+    border: solid;
+    padding: 0.3rem;
+    text-decoration: none;
+    line-height: 1.5;
+  }
+}
+
+
+/* Format headers */
+/* default simple.css is wel erg groot op desktop */
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+}
+
+/* Reduce header size on mobile */
+/*
+@media only screen and (max-width: 720px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 2.1rem;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+  }
+}
+*/
+
+
+/* events as definition lists - add a little space below each: */
+
+.events dl dt,
+.events dl dd {
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+}
+
+.events dl dd,
+.events dl dt {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+}

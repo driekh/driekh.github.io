@@ -1,0 +1,50 @@
+---
+layout: defaultnostats
+---
+
+<h1>{{ page.title }}</h1> 
+
+<p class="postdate">
+{{ page.date | date: "%Y/%m/%d" }}
+{% if page.updatedate %}
+(updated: {{ page.updatedate | date: "%Y/%m/%d" }})
+{% endif %}
+</p>
+
+<!-- todo:
+add looping through space or comma-delimited values in lang
+put in separate include
+language labels to data file
+-->
+
+{% if page.lang == "nl" %}
+(nederlands)
+{% elsif page.lang == "en" %}
+(en)
+{% else %}
+(no language tag)
+{% endif %}
+
+
+<!--
+{{ page.tag }}
+
+* TOC
+{:toc}
+-->
+
+1 {{ post.title }}
+2 {{ post.id }}
+3 {{ post.name }}
+4 {{ post.next }}
+
+
+{% if page.next.url %}
+* Next: {{ page.next.url }}
+{% endif %} 
+
+{% if post.previous.url %}
+* Prev: {{ post.previous.url  }}
+{% endif %}
+
+{{ content }}

@@ -1,0 +1,108 @@
+<style>
+  .image-gallery {overflow: auto; margin-left: -1%!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%; display: block;}
+</style>
+
+<!-- randomize... wat een verzoeking. -->
+<!-- met een array niet gelukt. Uiteindelijk maar brute copy & paste -->
+{% assign min = 0 %}
+{% assign max = site.data.flickrgallery.size %}
+{% assign diff = max | minus: min %}
+
+{% assign rand1 = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign rand2 = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign rand3 = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign rand4 = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign rand5 = "now" | date: "%N" | modulo: diff | plus: min %}
+
+<!-- now check for unique values -->
+{% for i in (1..99) %}
+ {% if rand2 == rand1 %}
+  {% assign rand2 = "now" | date: "%N" | modulo: diff | plus: min %}
+ {% else %}
+  {% break %}
+ {% endif %}
+{% endfor %}
+
+{% for i in (1..99) %}
+ {% if rand3 == rand1 or rand3 == rand1 %}
+{% assign rand3 = "now" | date: "%N" | modulo: diff | plus: min %}
+ {% else %}
+  {% break %}
+ {% endif %}
+{% endfor %}
+
+{% for i in (1..99) %}
+ {% if rand4 == rand1 or rand4 == rand2 or rand4 == rand3 %}
+  {% assign rand4 = "now" | date: "%N" | modulo: diff | plus: min %}
+ {% else %}
+  {% break %}
+ {% endif %}
+{% endfor %}
+
+{% for i in (1..99) %}
+ {% if rand5 == rand1 or rand5 == rand2 or rand5 == rand3 or rand5 == rand4 %}
+  {% assign rand5 = "now" | date: "%N" | modulo: diff | plus: min %}
+ {% else %}
+  {% break %}
+ {% endif %}
+{% endfor %}
+
+<!-- random image numbers:
+{{max}}
+{{rand1}}
+{{rand2}}
+{{rand3}}
+{{rand4}}
+{{rand5}}
+-->
+
+<div class="image-gallery">
+  
+<!-- todo: these should be put in a liquid array then looped, but haven't gotten it working yet on soverin jekyll -->
+  
+  {% assign item = site.data.flickrgallery[rand1] %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title }}</span>
+  </a>
+
+ {% assign item = site.data.flickrgallery[rand2] %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title }}</span>
+  </a>
+
+ {% assign item = site.data.flickrgallery[rand3] %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title }}</span>
+  </a>
+
+   {% assign item = site.data.flickrgallery[rand4] %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title }}</span>
+  </a>
+
+   {% assign item = site.data.flickrgallery[rand5] %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title }}</span>
+  </a>
+
+</div>
+
+
+{% comment %}
+<div class="image-gallery">
+{% for item in site.data.flickrgallery %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title  }} <!-- - {{forloop.index}}/{{ forloop.length }} --></span>
+  </a>
+{% endfor %}
+</div>
+{% endcomment %}

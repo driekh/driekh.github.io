@@ -1,0 +1,68 @@
+<style>
+  .image-gallery {overflow: auto; margin-left: -1%!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%; display: block;}
+</style>
+
+<!-- {{ site.data.flickrgallery.size }} * -->
+
+<!-- randomize... wat een verzoeking. -->
+{% assign min = 1 %}
+{% assign max = site.data.flickrgallery.size %}
+{% assign diff = max | minus: min %}
+
+<!-- create 3 empty arrays -->
+{% assign array1 = '' | split '' %}
+{% assign array2 = '' | split '' %}
+{% assign array3 = '' | split '' %}
+
+<!--
+# array1 wordt gevuld met willekeurig nummers;
+# array2 houdt bij of een nummer al is toegewezen (dwz is uniek)
+# array3 wordt gevuld met 5 random unieke nummers uit de rij;
+-->
+
+<!--
+# vul array 1
+# for i in 1..max
+# push random nummer (1..max) naar array1
+# endfor
+-->
+
+
+<!-- # vul array 2 met nullen -->
+{% for i in (1..{{ max }} ) %}
+{% assign array2[i] == "1" %}
+{% endfor %}
+
+{% for a in array2 %}
+	test {{ a }}
+{% endfor %}
+
+<!-- 
+# for i in 1..max
+# if array1[i] != 0 
+	# push array1[i] naar array2; 
+  # assign array1[i] = 0
+# endif
+# if array2.size > 5 break
+# endfor
+
+# for i in 1..array2.size
+# originele code hier
+# endfor
+
+
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+-->
+
+
+<div class="image-gallery">
+{% for item in site.data.flickrgallery %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title  }} <!-- - {{forloop.index}}/{{ forloop.length }} --></span>
+  </a>
+{% endfor %}
+</div>

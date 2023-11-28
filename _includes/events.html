@@ -1,0 +1,53 @@
+{% assign today_date = 'now' | date: '%s' %}
+
+{% comment %}
+Usage: 
+All events:             include events.html
+Only upcoming events:   include events.html filter="future"
+Only past events:       include events.html filter="past"
+Other values of filter are ignored
+{% endcomment %}
+
+
+<div class="events">
+
+  <dl>
+
+  {%- for item in site.data.events %}
+  {% assign event_date = item.date | date: '%s' %}
+  {% if include.filter == "future" and today_date > event_date %}
+    {% continue %} # skip past event
+  {% elsif include.filter == "past" and today_date < event_date %}
+    {% continue %} # skip future event
+  {% endif %}
+  
+    <dt>
+      <span class="date">{{ item.date }}</span>
+      {% if item.time != blank -%}
+        <br>
+        <span class="time">{{ item.time }}</span>
+      {% endif %}
+    </dt>
+
+    <dd>
+       <span class="title">{{ item.title }}</span>
+       {% if item.place != blank -%}
+         <br>
+       <span class="place">{{ item.place }}</span>
+       {%- endif -%} 
+      <br> 
+       <span class="meerinfo">
+          <a href="{{ item.url }}"> 
+           {% if item.url_label == blank -%}
+              {{ item.url }}
+           {% else -%}
+              {{ item.url_label }}
+           {% endif -%}
+            {{ item.name }}
+          </a>
+       </span>
+     </dd>
+  {%- endfor %}
+
+  </dl>
+</div>

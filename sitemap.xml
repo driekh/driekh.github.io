@@ -1,0 +1,37 @@
+---
+layout: 
+---
+{%- comment %}
+Overgenomen van https://jekyllcodex.org/without-plugin/sitemap/
+aangepast:
+- site.url vervangen door sitemap_url
+- toegevoegd aan skipregels: "if page.url contains '/test' "
+{% endcomment -%}
+{%- assign sitemap_url = "https://heesk.nl" -%}
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+  {% if page.url contains '/test' or page.url contains '.xml' or page.url contains 'assets' %}{% else %}
+      <url>
+        <loc>{{ sitemap_url }}{{ page.url }}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  {% endif %}
+  {% endfor %}
+  {% for page in site.posts %}
+      <url>
+        <loc>{{ sitemap_url }}{{ page.url | replace: 'index.html', '' }}</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  {% endfor %}
+  {% for page in site.without-plugin %}
+      <url>
+        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  {% endfor %}
+</urlset>

@@ -1,0 +1,35 @@
+<style>
+  .image-gallery {overflow: auto; margin-left: -1%!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%; display: block;}
+</style>
+
+
+
+<div class="image-gallery">
+  
+<!-- todo: these should be put in a liquid array then looped, but haven't gotten it working yet on soverin jekyll -->
+
+{% for item in site.data.flickrgallery %}
+  
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title }}</span>
+  </a>
+
+  {% endfor %}
+
+</div>
+
+
+{% comment %}
+<div class="image-gallery">
+{% for item in site.data.flickrgallery %}
+  <a href="{{ item.link }}" title="{{ item.title }}">
+   <img src="{{ item.imgthumb }}" alt="{{ item.title }}" />
+   <span>{{ item.title  }} <!-- - {{forloop.index}}/{{ forloop.length }} --></span>
+  </a>
+{% endfor %}
+</div>
+{% endcomment %}

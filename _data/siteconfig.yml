@@ -1,0 +1,4 @@
+- name: siteurl
+  val: https://heesk.nl
+- name: sitename
+  val: heesk.nl
