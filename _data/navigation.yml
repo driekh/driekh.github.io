@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Calendar
-  link: /calendar/
+  link: /calendar
 - name: Blog
   link: /blog
