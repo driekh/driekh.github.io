@@ -9,7 +9,7 @@ layout: default
 
 Hi, I'm Driek. Singer, improviser, arranger, composer, songwriter. Singer in MAZE Voices. Co-organizer of the IFNL festival. With a fondness for things on rails.
 
-## music:
+## musica:
 
 - [upcoming events](calendar)
 - Irregular email newsletter: [LaPosta - Muziek van Driek](https://laposta.nl/f/sse2m5b5ntxg) (for now, Dutch only)
@@ -21,7 +21,7 @@ Hi, I'm Driek. Singer, improviser, arranger, composer, songwriter. Singer in MAZ
 
 {% include flickrgallery.html %}
 
-These come from my Flickr photostream. More on [flickr.com/photos/driek](http://www.flickr.com/photos/driek). CC-licensed.
+These come from my Flickr photostream. More on [flickr.com/photos/driek](http://www.flickr.com/photos/driek). CC-licensed. 
 
 ## contact:
 
