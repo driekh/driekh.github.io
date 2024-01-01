@@ -6,14 +6,16 @@ layout: post
 updatedate: '2024-01-01'
 ---
 
-UPDATE: Soverin/Freedom is per 1 januari 2024 gestopt met het hosten van jekyll-sites op domeinen. Daar is veel over te zeggen; zie 
-[community.freedom.nl/t/de-websitefunctie-op-mijnfreedom-stopt-per-1-januari-2024/4186{https://community.freedom.nl/t/de-websitefunctie-op-mijnfreedom-stopt-per-1-januari-2024/4186}] op het community-forum.
+**UPDATE**: Soverin/Freedom is per 1 januari 2024 gestopt met het hosten van jekyll-sites op domeinen. Deze post is dus helaas niet meer relevant.
 
-Ik host mijn domein nog altijd bij freedom, en wil geen 15/mnd betalen voor volledige dynamische webhosting waarvan ik niets zal gebruiken. Voor nu heb ik de jekyll-installatie verhuisd naar github. Github ondersteuning voor Jekyll is erg standaard; een kleine aanpassing in yaml config was genoeg om het aan de praat te krijgen. Github doet iets slims met CNAME's voor het hosten van pagina's op een github.io subdomein. Er zitten wel haken en ogen aan. Daarover later misschien meer; voor nu, het werkt.
+Daar is veel over te zeggen, en zowel het besluit als de manier waarop freedom dit communniceerde verdient geen schoonheidsprijs en roept vragen op over freedom. Zie 
+[community.freedom.nl/t/de-websitefunctie-op-mijnfreedom-stopt-per-1-januari-2024/4186](https://community.freedom.nl/t/de-websitefunctie-op-mijnfreedom-stopt-per-1-januari-2024/4186) op het community-forum.
 
-De rest van deze post is dus niet meer van toepassing, helaas.
+Ik host deze site (www.heesk.nl) nog altijd bij freedom, maar ik wil geen 15/mnd betalen voor volledige dynamische webhosting waarvan ik vrijwel niets zal gebruiken. Alternatieven zijn er bijna niet. Voor nu heb ik de jekyll-installatie verhuisd naar github. Github ondersteuning voor Jekyll is gelukkig heel standaard, een kleine aanpassing in yaml config was genoeg om het aan de praat te krijgen. Github doet iets slims met CNAME's voor het hosten van pagina's op een github.io subdomein. Er zitten wel haken en ogen aan. Zo is github eigendom van microsoft en zitten er in de voorwaarden wat zaken waar je vraagtekens bij kunt zetten. Daarover later misschien meer, en wie weet vind ik uitendelijk een betere oplossing. Voor nu werkt het, en is de site niet uit de lucht gegaan op 1 januari 2024 (vandaag :) ...
 
-Oorspronl
+
+
+## Oorspronlijke post:
 
 Als steunlid van het eerste uur heb ik een basisabonnement bij Freedom Internet. Daar kreeg ik een domeinnaam bij, voor provider-onafhankelijke emailadressen - hulde! Bij de domeinnaam zit geen volledige serverhosting waarmee je applicaties kan draaien (php, cgi, ruby), maar wel kan je een statische website er op zetten. Het is behoorlijk compatible met jekyll, al is het onder water iets van soverin zelf. 
 
