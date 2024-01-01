@@ -1,4 +1,3 @@
-
 /* override simple.css defaults here */
 
 body > header { 
@@ -9,8 +8,9 @@ body > header {
   background-image: url("/assets/img/luco-bg-1500x500.jpg") ;
   background-image: url("/assets/img/fulton-750.jpg") ; 
 */
-  
+  /*
   background-image: url("/assets/img/AVEpassing-1500.jpg") ;
+*/
   
   {% assign max = site.data.headerimages.size %}
   {% assign rand = "now" | date: "%N" | modulo: max %}
