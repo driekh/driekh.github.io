@@ -3,14 +3,25 @@ date: '2023-01-08'
 lang: nl
 title: Soverin/freedom jekyll sites op domeinen zonder webhosting
 layout: post
-updatedate: '2023-01-11'
+updatedate: '2024-01-01'
 ---
+
+UPDATE: Soverin/Freedom is per 1 januari 2024 gestopt met het hosten van jekyll-sites op domeinen. Daar is veel over te zeggen; zie 
+[community.freedom.nl/t/de-websitefunctie-op-mijnfreedom-stopt-per-1-januari-2024/4186{https://community.freedom.nl/t/de-websitefunctie-op-mijnfreedom-stopt-per-1-januari-2024/4186}] op het community-forum.
+
+Ik host mijn domein nog altijd bij freedom, en wil geen 15/mnd betalen voor volledige dynamische webhosting waarvan ik niets zal gebruiken. Voor nu heb ik de jekyll-installatie verhuisd naar github. Github ondersteuning voor Jekyll is erg standaard; een kleine aanpassing in yaml config was genoeg om het aan de praat te krijgen. Github doet iets slims met CNAME's voor het hosten van pagina's op een github.io subdomein. Er zitten wel haken en ogen aan. Daarover later misschien meer; voor nu, het werkt.
+
+De rest van deze post is dus niet meer van toepassing, helaas.
+
+Oorspronl
 
 Als steunlid van het eerste uur heb ik een basisabonnement bij Freedom Internet. Daar kreeg ik een domeinnaam bij, voor provider-onafhankelijke emailadressen - hulde! Bij de domeinnaam zit geen volledige serverhosting waarmee je applicaties kan draaien (php, cgi, ruby), maar wel kan je een statische website er op zetten. Het is behoorlijk compatible met jekyll, al is het onder water iets van soverin zelf. 
 
 Het was een leuk projectje voor de kerstvakantie om dit nu eens verder uit te zoeken. Hier mijn aantekeningen voor wie er wat aan heeft.
 
-(update 11 januari, opmerkingen verwerkt van PtrO op het forum)
+(update 11 januari 23: opmerkingen verwerkt van PtrO op het forum)
+
+(update 1 januari 24: einde jekyll-dienst van freedom/soverin)
 
 
 ## Freedom community forum
