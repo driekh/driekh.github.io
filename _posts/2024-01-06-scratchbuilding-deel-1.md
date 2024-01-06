@@ -8,7 +8,7 @@ layout: post
 
 Voor het eerst een blogpost over modelbouw. Dat doe ik al langer, maar eindelijk heb ik iets waar ik best tevreden ove ben: mijn eerste experimenten met scratchbuilding!
 
-(ook gepost op net n-spoorforum: https://www.n-spoorforum.nl/phpbb3/viewtopic.php?t=8998 )
+(ook gepost op het [n-spoorforum](https://www.n-spoorforum.nl/phpbb3/viewtopic.php?t=8998) )
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53428311102/" title="Casa 1-5"><img src="https://live.staticflickr.com/65535/53428311102_0b3860fe3a_z.jpg" width="640" height="480" alt="Casa 1-5"/></a>
 
