@@ -1,7 +1,7 @@
 ---
 date: '2024-01-06'
 lang: nl
-title: 'Een Italiaans dorpje in schaal N van scratch - part 1'
+title: 'Een Italiaans dorpje in schaal N van scratch - deel 1'
 layout: post
 ---
 
