@@ -45,5 +45,8 @@ Then came the most difficult part, a suitable roof. The prototype has a complica
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53429391668/" title="Casa 1-18"><img src="https://live.staticflickr.com/65535/53429391668_59cc937cb8_z.jpg" width="480" height="640" alt="Casa 1-18"/></a>
 
-I'm pleased with this. Chimneys and downspouts are still missing but, hey. If I squeeze my eyes I see an authentic Italian style house if I don't look to close. This will certainly get a spot on the layout!
+I'm quite pleased how this came out. Chimneys and downspouts are still missing, as is a little green perhaps, to mask the rough edges. But if I squeeze my eyes I see an authentic Italian style house. This will certainly get a place on the layout.
+
+[Flickr set, 18 photos](https://www.flickr.com/photos/driek/albums/72177720313682257/)
+
 
