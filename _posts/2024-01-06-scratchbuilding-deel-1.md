@@ -48,3 +48,6 @@ Nu het moeilijkste, het dak erop. Het prototype heeft een best ingewikkelde dakv
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53429391668/" title="Casa 1-18"><img src="https://live.staticflickr.com/65535/53429391668_59cc937cb8_z.jpg" width="480" height="640" alt="Casa 1-18"/></a>
 
 Potverdrie. Er staat een authentiek aandoend Italiaans huis! Niet te dichtbij kijken natuurlijk, maar dit krijgt een plaatsje op Pomi. Schoorstenen en regenpijpen ontbreken natuuurlijk nog, maar hey. Dit smaakt naar meer - en dat kwam er ook. Maar deze post is al lang genoeg. Saluti!
+
+[Flickr set met 18 foto's](https://www.flickr.com/photos/driek/albums/72177720313682257/)
+
