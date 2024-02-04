@@ -5,10 +5,7 @@ title: 'Een Italiaans dorpje in schaal N van scratch - deel 2'
 layout: post
 ---
 
-Blogpost scratchbuilding #2
-
-Inmiddels een tweede scratcbuild (zo goed als) af. Ik probeerde de fouten van de eerste te vermijden, en maak lekker veel nieuwe fouten om van te leren :)
-
+Inmiddels een tweede scratchbuild (zo goed als) af. Ik probeer de fouten van de eerste te vermijden, en maak lekker veel nieuwe fouten om van te leren :)
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53428339017/in/dateposted/" title="Casa 2-1"><img src="https://live.staticflickr.com/65535/53428339017_c03138aacd_z.jpg" width="640" height="480" alt="Casa 2-1"/></a>
 
