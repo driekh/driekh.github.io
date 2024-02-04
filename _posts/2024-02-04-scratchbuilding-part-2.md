@@ -5,8 +5,6 @@ title: 'Modelling an Italian village in N scale from scratch - part 2'
 layout: post
 ---
 
-Blogpost scratchbuilding #2
-
 My second ever scratchbuild. I'm trying to avoid making the mistakes of the first one, so I'm making lots of new ones to learn from! :)
 
 
