@@ -13,7 +13,7 @@ Other values of filter are ignored
 
   <dl>
 
-  {%- for item in site.data.events | sort %}
+  {%- for item in site.data.events | sort "event_date" | reverse %}
   {% assign event_date = item.date | date: '%s' %}
   {% if include.filter == "future" and today_date > event_date %}
     {% continue %} # skip past event
