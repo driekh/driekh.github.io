@@ -38,9 +38,11 @@
   place: Istanbul
   url_label: vokalakademi.co
   url: https://www.vokalakademi.co/en/festivals
+- date: 2024-04-02
+  title: "Private gig"
 - title: "Safe & Sound: MAZE Voices + Dance Company M'Joy"
   url: https://www.theaterkoningshof.nl/agenda/2506/maze-voices-en-dance-company-m-joy/safe-sound
-  url_label: tickets + info
+  url_label: tickets + info bij Theater Koningshof
   date: 2024-05-03
   place: Maassluis, Nederland
 - title: Voices in Metal concert + worshop
@@ -53,8 +55,6 @@
   place: Istanbul, Fenerbahçe Park
   url: https://muzik.iksv.org/en/the-52nd-istanbul-music-festival-2024/weekend-classics-i
   url_label: 52nd Istanbul Music Festival
-- date: 2024-04-02
-  title: "Private gig"
 - date: 2024-06-22
   title: "Rijnlandroute festival"
   place: Leiden, Nederland
