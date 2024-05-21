@@ -65,6 +65,6 @@ En om het meer diepte te geven, de daken relatief ver laten uitsteken:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53737487625/in/album-72177720317174561/" title="Casa B2-7 - B1 and B2 combined"><img src="https://live.staticflickr.com/65535/53737487625_7dd1761179_z.jpg" width="640" height="480" alt="Casa B2-7 - B1 and B2 combined"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Kijk, een straatje in wording:
+Eccoci qua! Een straatje in wording:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53737066051/in/album-72177720317174561/" title="Casa B2-9 - the street takes shape"><img src="https://live.staticflickr.com/65535/53737066051_e68ee96f24_z.jpg" width="640" height="480" alt="Casa B2-9 - the street takes shape"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
