@@ -63,7 +63,7 @@ As I'm modelling more or less in the current era, maybe I should add a ramp on t
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53737400044/in/album-72177720317174561/" title="Casa B2-6"><img src="https://live.staticflickr.com/65535/53737400044_20b7701909_z.jpg" width="640" height="480" alt="Casa B2-6"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-And this is where they're planned to be put. Although they'll be attached to eachother, I'm glad I chose to build them separate. Especially the roof would've been much more difficult if it would have been one construction.
+And this is where they're planned to be put. Although they'll be attached to eachother, I'm glad I chose to build them separate. It would have been quite an odd shape, and especially building the roof would've been much more difficult if it had been a single construction.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/53737261818/in/album-72177720317174561/" title="Casa B2-8 - B1 and B2 combined"><img src="https://live.staticflickr.com/65535/53737261818_03d2c77e1a_z.jpg" width="640" height="480" alt="Casa B2-8 - B1 and B2 combined"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
