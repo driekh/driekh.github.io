@@ -6,11 +6,13 @@ layout: post
 ---
 
 
-Things are progressing, roughly at the speed you can expect in an Italian village. So there! First of all, finally I settled in the right name. Benvenuto a Val dei Pomi!
+Things are progressing, roughly at the speed you can expect in an Italian village. Steady as she goes. First of all, big news: finally I settled in the right name. Benvenuto a Val dei Pomi!
 
 <img src="https://www.heesk.nl/assets/img/val-del-pomi-sign-rect.png" />
 
-'Gli pomi' was grammatically wrong in so many ways, even in dialect. "To them apples" was a little too dadaic nonsens :)
+'Gli pomi' was grammatically wrong in so many ways, even in dialect. "To them apples" was a little too dadaic nonsense, even for my taste :)
+
+
 
 And then: two new houses in the back street. I built them in one construction, so one blogpost.
 
