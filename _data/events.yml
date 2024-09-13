@@ -38,8 +38,6 @@
   place: Istanbul
   url_label: vokalakademi.co
   url: https://www.vokalakademi.co/en/festivals
-- date: 2024-04-02
-  title: "Private gig"
 - title: "Safe & Sound: MAZE Voices + Dance Company M'Joy"
   url: https://www.theaterkoningshof.nl/agenda/2506/maze-voices-en-dance-company-m-joy/safe-sound
   url_label: tickets + info bij Theater Koningshof
@@ -66,7 +64,7 @@
   place: AHOY Rotterdam, Nederland
   url: https://nationaletaptoe.nl/deelnemers/vrouwelijke-strijders-jo-quail-en-maria-franz/
   url_label: De Nationale Taptoe website
-  - date: 2024-10-03
+- date: 2024-10-03
   title: "MAZE and Rebel Bit in Concert"
   place: Rotterdam, Nederland
   time: "19.30"
@@ -77,4 +75,3 @@
   place: Rotterdam, Nederland
   url: https://www.dedoelen.nl/nl/agenda/22418/groove-stories/balk-topfestival
   url_label: Balk Topfestival tickets - De Doelen
-  
