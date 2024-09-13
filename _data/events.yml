@@ -65,11 +65,13 @@
   title: "De Nationale Taptoe (met o.a. MAZE met Jo Quail)"
   place: AHOY Rotterdam, Nederland
   url: https://nationaletaptoe.nl/deelnemers/vrouwelijke-strijders-jo-quail-en-maria-franz/
-- date: 2024-10-03
+  url_label: De Nationale Taptoe website
+  - date: 2024-10-03
   title: "MAZE and Rebel Bit in Concert"
   place: Rotterdam, Nederland
   time: "19.30"
   url: https://www.ticketkantoor.nl/shop/mazerebelbit
+  url_label: Tickets via Ticketkantoor
 - date: 2024-11-09
   title: "MAZE Special Appearance at Balk Topfestival"
   place: Rotterdam, Nederland
