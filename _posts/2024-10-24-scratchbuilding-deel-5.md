@@ -63,7 +63,7 @@ te plakken voor het schilderen. Daarmee kan de verf ook helemaal rondom op alle 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086051956/in/photostream/" title="Municipio - 7"><img src="https://live.staticflickr.com/65535/54086051956_27c5d5024e_z.jpg" width="640" height="480" alt="Municipio - 7"/></a>
 
 
-Ik werd hier zo blij van dat ik alsnog ging nadenken over een interieur en verlichting. Had ik helemaal niet aan gedacht! Dus dat werd even passen en meten met waar de ramen zaten.
+Ik werd hier zo blij van dat ik geinspireerd raakte om toch ook een interieur en verlichting te maken. Had ik helemaal niet aan gedacht! Dus dat werd even passen en meten met waar de ramen zaten om een archiefzolder en kamers met met een hint naar een gemeentebalie in te passen. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086381789/in/photostream/" title="Municipio - 8"><img src="https://live.staticflickr.com/65535/54086381789_f899dde1de_z.jpg" width="640" height="480" alt="Municipio - 8"/></a>
 
@@ -72,11 +72,11 @@ Ik werd hier zo blij van dat ik alsnog ging nadenken over een interieur en verli
 
 Op papier leek het allemaal te passen. In de praktijk gaat karton soms toch wat kromtrekken,
 en ondanks hulplijntjes plakte ik een steunbalk rechts iets te hoog waardoor het er allemaal
-wat schots en scheef uitziet.
+wat schots en scheef uitziet. Gelukkig heeft die kamer rechtsvoor maar twee kleine venstertjes dus die scheve vloer laat ik lekker zitten!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086292978/in/photostream/" title="Municipio - 10"><img src="https://live.staticflickr.com/65535/54086292978_e6d5e15018_z.jpg" width="480" height="640" alt="Municipio - 10"/></a>
 
-De zaal midden op de 1e verdieping is de Raadszaal.
+De zaal midden op de 1e verdieping is in het prototype de Raadszaal.
 Ook in Val dei Pomi komt de gemeenteraad bijeen. Aan een statige ovalen tafel vol met wat op paperassen, tablets en laptops moet lijken:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086381969/in/photostream/" title="Municipio - 11"><img src="https://live.staticflickr.com/65535/54086381969_80f1be4b8d_z.jpg" width="640" height="480" alt="Municipio - 11"/></a>
