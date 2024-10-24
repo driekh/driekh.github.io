@@ -6,16 +6,12 @@ layout: post
 ---
 
 
-Benvenuto a Val dei Pomi - nu mét gemeentehuis!
-
-<img src="https://www.heesk.nl/assets/img/val-del-pomi-sign-rect.png" width="200"/>
-
-En bij een Italiaans stadje hoort natuurlijk een stadswapen:
+Benvenuto a Val dei Pomi!
 
 <img src="https://www.heesk.nl/assets/img/val-del-pomi-comune-shield.png" width="150" />
 
 
-Het gemeentehuis, in het Italiaans de Municipio, centraal
+Het gemeentehuis, in het Italiaans de Municipio (ook al noemen ze het in dialect de 'Comun'), centraal
 gelegen aan het plein is een blikvanger, zowel in het echt als in model. Een uitdaging om dit te bouwen, dit moest weer een stuk beter dan wat ik tot nu toe heb gemaakt.
 
 Nu deed ik in de zomer een leuke schilderworkshop (van Folkert op het n-spoorforum, zie [Workshop huisjes schilderen Folkert methode](https://www.n-spoorforum.nl/viewtopic.php?t=18313)) en daar heb ik veel nieuwe technieken geleerd - en dat heeft veel technieken en inspiratie gebracht.
@@ -24,42 +20,38 @@ Nu deed ik in de zomer een leuke schilderworkshop (van Folkert op het n-spoorfor
 
 Allereerst, de techniek van nat mixen met acrylverf om verlopen te maken, 'gradients'. 
 De bovenkant van een gebouw wat lichtere kleur, de onderkant wat viezer en donkerder.
-En verdomd, het ziet er meteen zoveel echter uit dan wat ik tot nu toe deed. 
-Gebouwen zijn aan de straatkant wat smoezeliger en aan de bovenkant meer gebleekt.
+Gebouwen zijn aan de straatkant smoezeliger door straatvuil en aan de bovenkant meer gebleekt.
+En verdomd, het ziet er meteen zoveel echter uit dan met de drybrushing techniek die ik tot nu toe toepaste. 
 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171672/in/photostream/" title="Municipio - 2"><img src="https://live.staticflickr.com/65535/54085171672_c53418c377_z.jpg" width="640" height="480" alt="Municipio - 2"/></a>
 
-De achterkant was nog een beetje een proef, die is op de baan uiteindelijk nauwelijks te zien.
-De zijkanten zien er echt goed uit zo, de kleuren sluiten nog wat beter op elkaar aan em het is subtieler.
-En daar wilde ik ook iets anders in. In het dorpje dat ik als prototype neem zitten op veel gebouwen resten van middeleeuwse frescoes op muren, soms fraai gerestaureerd. Die wilde ik er ook bij, ook al heeft juist het gemeentehuis in mijn prototype die weer niet. Va beh!
+De achterkant was nog een beetje een proef, die is op de baan uiteindelijk nauwelijks te zien, daar probeerde ik het eerst. Daarna de zijkanten en die zien er weer beter uit: de kleuren sluiten net wat beter op elkaar aan en de vervuiling onderen wat subtieler.
 
-Daarom op de zijkanten gewerkt met niet twee,
-maar drie lagen: de middelste een stukje kleurenprint op gewoon A4 met het fresco
-(De binnenste laag is karton van een pak muesli, de buitenkant is 1mm atelierskarton).
+In de zijgevels wilde ik nog iets nieuws. In het dorpje dat ik als prototype neem zitten op veel gebouwen resten van middeleeuwse frescoes op muren, soms fraai gerestaureerd. Die vond ik hier ook bij passen, ook al heeft het prototype die niet. Gelukkig bouw ik dus niet louter prototypisch!
 
-Als experiment had ik ook een versie gemaakt met een geprint raam, en dat me nagellak
-van een glansje voorzien (op de foto links). Dat werkte niet goed, de lak doet het gelaserprinte 'raam' wat lopen en vervagen, en het glans-effect viel tegen. Weet ik dat ook weer.  
+Daarom op de zijkanten een derde laag: de middelste een stukje kleurenprint op gewoon A4 met het fresco (de binnenste laag is karton van een pak muesli, de buitenkant is 1mm atelierskarton).
 
-
+Als experiment had ik om dat vel ook geprinte ramen met gordijn gemaakt, en die met nagellak
+van een glansje voorzien (op de foto links). Dat werkte helaas niet goed, de lak doet het gelaserprinte 'raam' wat lopen en vervagen, en het glans-effect viel weg. Experiment mimslukt, weet ik dat ook weer.  
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086381774/in/photostream/" title="Municipio - 3"><img src="https://live.staticflickr.com/65535/54086381774_c8a3cfe36d_z.jpg" width="480" height="640" alt="Municipio - 3"/></a>
 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086381614/in/photostream/" title="Municipio - 4"><img src="https://live.staticflickr.com/65535/54086381614_49073228fa_z.jpg" width="640" height="480" alt="Municipio - 4"/></a>
 
-Wat ik ook geleerd heb van Chandwell: hoe meer lagen, hoe meer diepte. Daarom krijgt elk venster (behalve de rij onder het dak) een extra balkje. Het idee is dat het
-wat smoezelig geworden marmer is. Hiervoor stripjes styreen gebruikt, want karton op zulke kleine streepjes wordt niet strak genoeg.
+Hoe meer laagjes, hoe meer diepte, weet ik inmiddels. Daarom krijgt elk venster (behalve de rij onder het dak) een extra balkje, geinspireerd op het prototype, het idee is dat het
+wat smoezelig geworden marmer is. Hiervoor uiteindelijk stripjes styreen gebruikt, want karton op zulke kleine streepjes wordt niet strak genoeg en is niet te schilderen. Ook hier met wat grijstinten, en daarna wit en zwart en groen drybrishen. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171577/in/photostream/" title="Municipio - 5"><img src="https://live.staticflickr.com/65535/54085171577_783a4a518a_z.jpg" width="640" height="480" alt="Municipio - 5"/></a>
 
-En de luiken ook geschilderd met een lichte gradient. Ook geleerd van Folkert: hout is juist 
-licher aan de onderkant en donkerder boven. Het effect is
-erg subtiel, ik twijfel of ik het nu wel echt zie, maar ik denk dat het toch onbewust
-bijdraagt aan het totaalbeeld. Onze hersens zijn heel goed in het herkennen van repeterende
-patronen en dat ziet er dan kunstmatig uit, dit introduceert een extra random factor waardoor
+Ook de luiken zijn geschilderd met een lichte gradient. Ook geleerd van Folkert: in tegenstelling tot de gevel is hout is juist 
+licher aan de onderkant (waar hout afbladdert door regen) en donkerder boven. Het effect is
+erg subtiel, ik twijfel of ik het zelf wel kan zien. Maar ik vermoed dat het toch onbewust
+bijdraagt aan het hele beeld. Onze hersens zijn heel goed in het herkennen van repeterende
+patronen en dat ziet er dan kunstmatig uit; dit introduceert een extra random factor waardoor
 elk luik subtiel anders is. Nou ja, dat hoop ik dan. 
-En verder niet te dekkend zodat het geprinte patroon nog zichtbaar blijft.
+En natuurlijk niet te dekkend schilderen, zodat het geprinte patroon nog zichtbaar blijft.
 
 Wat heel goed werkte is om de luikjes (0.5mm karton met een zwart-wit bedrukte sticker bovenop) op omgekeerde schilderstape 
 te plakken voor het schilderen. Daarmee kan de verf ook helemaal rondom op alle kanten komen.
@@ -71,9 +63,7 @@ te plakken voor het schilderen. Daarmee kan de verf ook helemaal rondom op alle 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086051956/in/photostream/" title="Municipio - 7"><img src="https://live.staticflickr.com/65535/54086051956_27c5d5024e_z.jpg" width="640" height="480" alt="Municipio - 7"/></a>
 
 
-Ik werd hier zo blij van dat ik alsnog ging nadenken over een interieur. Had ik helemaal niet voorzien!
-
-
+Ik werd hier zo blij van dat ik alsnog ging nadenken over een interieur en verlichting. Had ik helemaal niet aan gedacht! Dus dat werd even passen en meten met waar de ramen zaten.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086381789/in/photostream/" title="Municipio - 8"><img src="https://live.staticflickr.com/65535/54086381789_f899dde1de_z.jpg" width="640" height="480" alt="Municipio - 8"/></a>
 
@@ -86,8 +76,8 @@ wat schots en scheef uitziet.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086292978/in/photostream/" title="Municipio - 10"><img src="https://live.staticflickr.com/65535/54086292978_e6d5e15018_z.jpg" width="480" height="640" alt="Municipio - 10"/></a>
 
-De zaal midden op de 1e verdieping is in het echt de Raadszaal!
-Dus komt ook in Val dei Pomi de gemeenteraad bijeen aan een tafel vol met wat op paperassen, tablets en laptops moet lijken:
+De zaal midden op de 1e verdieping is de Raadszaal.
+Ook in Val dei Pomi komt de gemeenteraad bijeen. Aan een statige ovalen tafel vol met wat op paperassen, tablets en laptops moet lijken:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086381969/in/photostream/" title="Municipio - 11"><img src="https://live.staticflickr.com/65535/54086381969_80f1be4b8d_z.jpg" width="640" height="480" alt="Municipio - 11"/></a>
 
@@ -97,10 +87,11 @@ Dus komt ook in Val dei Pomi de gemeenteraad bijeen aan een tafel vol met wat op
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086504580/in/photostream/" title="Municipio - 13"><img src="https://live.staticflickr.com/65535/54086504580_d0cf2e49be_z.jpg" width="480" height="640" alt="Municipio - 13"/></a>
 
-Het wordt een latertje, de concierge gaat vast naar huis:
+Het wordt een latertje, de laatste ambtenaar gaat vast naar huis:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171652/in/photostream/" title="Municipio - 14"><img src="https://live.staticflickr.com/65535/54085171652_36d9dc2b8e_z.jpg" width="480" height="640" alt="Municipio - 14"/></a>
 
+Een heel zacht brandend groen ledje om het schijnsel van zo'n groen bordje 'uit' te suggereren.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171747/in/photostream/" title="Municipio - 15"><img src="https://live.staticflickr.com/65535/54085171747_989ef60493_z.jpg" width="640" height="480" alt="Municipio - 15"/></a>
 
@@ -111,9 +102,6 @@ Leuk om die scenes te maken, maar... hoeveel zie je daar nu van als de gevel er 
 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171857/in/photostream/" title="Municipio - 17"><img src="https://live.staticflickr.com/65535/54085171857_825db6e2a4_z.jpg" width="480" height="640" alt="Municipio - 17"/></a>
-
-
-Die voorgevel dus. De achterlaag van een pak Barilla pasta
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086504675/in/photostream/" title="Municipio - 18"><img src="https://live.staticflickr.com/65535/54086504675_68eb88aa09_z.jpg" width="640" height="480" alt="Municipio - 18"/></a>
 
@@ -132,9 +120,9 @@ daar achter. Reden om zelf de deuren en raamkozijnen te maken met de 'sticky lab
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086052381/in/photostream/" title="Municipio - 21"><img src="https://live.staticflickr.com/65535/54086052381_b99ece502e_z.jpg" width="640" height="480" alt="Municipio - 21"/></a>
 
-Modelbouw centrum Hilversum sloot helaas deze zomer de deuren, maar in de uitverkoop kwam ik een zakje messing ladders tegenge - en die bleken perfect om een belkon met spijlen mee te maken. 
+Helaas sloot Modelbouw Centrum Hilversum deze zomer de deuren, maar elk nadeel heb z'n voordeel: in de uitverkoop kwam ik daar een zakje messing ladders tegen - perfect om een belkon met spijlen mee te maken. 
 De vloer van het balkon zijn twee lagen karton, dan de ladder, en daarboven weer een stripjes
-styreen.
+styreen. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171657/in/photostream/" title="Municipio - 22"><img src="https://live.staticflickr.com/65535/54085171657_baf8930eb8_z.jpg" width="640" height="480" alt="Municipio - 22"/></a>
 
