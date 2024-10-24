@@ -1,7 +1,7 @@
 ---
 date: '2024-10-24'
-lang: nl
-title: 'Een Italiaans dorpje in schaal N van scratch - deel 5: het gemeentehuis'
+lang: en
+title: 'Modelling an Italian village in N scale from scratch - part 5: the Municipio'
 layout: post
 ---
 
@@ -9,28 +9,35 @@ Benvenuto a Val dei Pomi!
 
 <img src="https://www.heesk.nl/assets/img/val-del-pomi-comune-shield.png" width="150" />
 
-Het gemeentehuis, gelegen aan het centrale plein, is een blikvanger, in het echt en in model. Een uitdaging om deze Municipio (of in dialect de 'Comun') te bouwen!
+The Municipio on the central square is a real eye catcher, in the real Italian town as well as on the layout. Time to up my game!
 
-Nu deed ik in de zomer een leuke schilderworkshop (van Folkert op het n-spoorforum, zie [Workshop huisjes schilderen Folkert methode](https://www.n-spoorforum.nl/viewtopic.php?t=18313)). Daar heb ik veel nieuwe technieken geleerd, en dat heeft veel inspiratie gebracht.
+Now, during this summer, I did a nice one-day workshop painting for modellers, where I picked up new techniques and inspiration.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171742/in/dateposted/" title="Municipio - 1"><img src="https://live.staticflickr.com/65535/54085171742_e48ed5567e_z.jpg" width="640" height="480" alt="Municipio - 1"/></a>
 
-Allereerst, de techniek van _nat mixen_ met acrylverf om verlopende kleuren te maken. 
-De onderkant van een gebouw is altijd wat viezer en donkerder, en sowieso heb je altijd iets van kleurverloop in grote oppervlakken door de lichtval.
-Wow, wat ziet dit er meteen zoveel echter uit, vergeleken met de drybrushing techniek die ik op de vorige gebouwen toepaste! 
+Most of all, _dry mixing_ with acrylic paint to make gradients. The bottom of a 
+building is always a bit dirtier hence darker, and large surfaces in the real world
+never look the same colour because of the light. Wow, what a difference compared to the drybrushing technique I used on previous buildings.
 
-Als eerste deed ik de achterkant, nog een beetje als proef, die is op de baan toch nauwelijks te zien. Nog wat grof, daarna deed ik de zijkanten met iets andere kleuren. Die sluiten weer net wat beter op elkaar aan en de vervuiling onder is wat subtieler.
+First I tried it on the backside, which will be hardly visible on the layout. 
+That was nice but a bit coarse. For the sides I chose colours that matched better.
+Also, the dirt at the bottom is much more subtle this way.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54085171672/in/photostream/" title="Municipio - 2"><img src="https://live.staticflickr.com/65535/54085171672_c53418c377_z.jpg" width="640" height="480" alt="Municipio - 2"/></a>
 
+On the pic at the left side an experiment. I printed a window with curtains drawn on 
+paper and covered it thinly with nail polish. Unfortunately, that didn't quite work.
+The laserprinted 'ink' became slightly blurry, and the shine was nothing to write home about. Okay then.
 
-Op de foto links een experiment: het idee was om met doorzichtige nagellak een op papier afgedrukt raam met gordijn 
-van een glansje voorzien. Dat werkte dus niet, de lak doet het gelaserprinte 'raam' wat lopen en vervagen, en het glans-effect is te bescheiden. Experiment mislukt, weet ik dat ook weer.  
-
-De reden voor die tussenlaag was dat ik in de zijgevels nog iets anders wilde. In het dorpje dat ik als prototype zie, hebben een handvol gebouwen resten van middeleeuwse frescoes op muren, en soms zelfs fraai gerestaureerd. Ook al heeft het prototype Municipio die niet, ik vond het hier passen. Het origineel is voor mij ook maar gewoon inspiratie.
+The reason I added the paper between the two carton layers is that I wanted to add
+something else from the prototype village. It has a handful of houses with mediaeval
+frescoes on the wall, some hardly visible, some very handsomely restored. The actual
+city hall doesn't have one, but hey, my layout, my rules! I liked them here.
 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54086381774/in/photostream/" title="Municipio - 3"><img src="https://live.staticflickr.com/65535/54086381774_c8a3cfe36d_z.jpg" width="480" height="640" alt="Municipio - 3"/></a>
+
+Layers, layers, layers: the more, the more realistic. So I've added a 
 
 
 Hoe meer laagjes, hoe meer diepte, weet ik inmiddels. Daarom krijgt elk venster (behalve de rij onder het dak) een extra balkje, geinspireerd op het prototype, het idee is dat het
