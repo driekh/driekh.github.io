@@ -11,7 +11,7 @@ Benvenuto a Val dei Pomi!
 <img src="https://www.heesk.nl/assets/img/val-del-pomi-comune-shield.png" width="150" />
 
 
-Het gemeentehuis, in het Italiaans de Municipio (ook al noemen ze het in dialect de 'Comun'), centraal
+Het gemeentehuis, in het Italiaans de Municipio (en in het dialect de 'Comun'), centraal
 gelegen aan het plein is een blikvanger, zowel in het echt als in model. Een uitdaging om dit te bouwen, dit moest weer een stuk beter dan wat ik tot nu toe heb gemaakt.
 
 Nu deed ik in de zomer een leuke schilderworkshop (van Folkert op het n-spoorforum, zie [Workshop huisjes schilderen Folkert methode](https://www.n-spoorforum.nl/viewtopic.php?t=18313)) en daar heb ik veel nieuwe technieken geleerd - en dat heeft veel technieken en inspiratie gebracht.
