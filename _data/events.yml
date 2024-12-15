@@ -101,6 +101,9 @@
   place: Nederland
   url: https://pieterskerkconcerten.nl/concerten/duo-concert-vocal-groups-maze-en-score/
   url_label: Tickets via Pieterskerk Utrecht
+- date: 2025-05-10
+  title: "MAZE - special concert with special guests, TBA"
+  place: Nederland
 - date: 2025-05-17
   title: "MAZE concert"
   place: Scherpenheuvel, België
@@ -112,3 +115,6 @@
 - date: 2025-09-20
   title: "MAZE concert"
   place: Nederland
+- date: 2025-08-29
+  title: "MAZE - save the date!"
+  place: TBA
