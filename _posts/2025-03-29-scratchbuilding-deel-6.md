@@ -62,7 +62,7 @@ Doorkijkje van achter:
 Ciao!
 
 
-(ook gepost op het [n-spoorforum](https://www.n-spoorforum.nl/viewtopic.php?p=285733#p285733) )
+(ook gepost op het [n-spoorforum](https://www.n-spoorforum.nl/phpbb3/viewtopic.php?p=293711#p293711) )
 
 
 

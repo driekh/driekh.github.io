@@ -57,14 +57,14 @@ View from behind:
 
 ...and from the front, with chimneys and some weathering:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54416414857/in/photostream/" title="Back street -"><img src="https://live.staticflickr.com/65535/54416414857_f44f89ab23.jpg" width="500" height="375" alt="Back street -"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54416414857/in/photostream/" title="Back street -"><img src="https://live.staticflickr.com/65535/54416414857_f44f89ab23.jpg" width="500" height="375" alt="Back street - 16"/></a>
 
 Ciao!
 
 
-(ook gepost op het [n-spoorforum](https://www.n-spoorforum.nl/viewtopic.php?p=285733#p285733) )
+(ook gepost op het [n-spoorforum](https://www.n-spoorforum.nl/phpbb3/viewtopic.php?p=293711#p293711) )
 
 
 
-[Flickr album met 16 foto's](https://www.flickr.com/photos/driek/albums/72177720324729420/)
+[Flickr album with 16 photos](https://www.flickr.com/photos/driek/albums/72177720324729420/)
 
