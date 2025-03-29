@@ -11,10 +11,9 @@ Continuing from the square of the Municipio, a sloping road curves up to the bac
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54417670495/in/dateposted/" title="Back street - 1"><img src="https://live.staticflickr.com/65535/54417670495_c2bab82fec.jpg" width="500" height="375" alt="Back street - 1"/></a>
 
-A tight fit, but it seems to work. I could've made the street wider, but that would take up
-space on the backside. This will do fine.
+A tight fit, but it seems to work. I could've made the street wider, but that would take up space on the backside. This will do fine.
 
-As in the prototype, most blinds are closed on the street side, giving it the feeling of a 'wall'.
+As in the prototype, most blinds are closed on the street side, giving it the feeling of a 'wall'. But each building needs to have its own character, like in the prototype, some freshly painted, others neglected. So I experimented with colours and techniques. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54417475929/in/photostream/" title="Back street - 4"><img src="https://live.staticflickr.com/65535/54417475929_9e99724136.jpg" width="500" height="375" alt="Back street - 4"/></a>
 
@@ -26,7 +25,7 @@ I split the five buildings in two blocks. The second block is a little less deep
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54417532818/in/photostream/" title="Back street - 7"><img src="https://live.staticflickr.com/65535/54417532818_1b350a8fbd.jpg" width="500" height="329" alt="Back street - 7"/></a>
 
-Attaching the facades, backs first:
+Attaching the facades, working from the backside:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54417475804/in/photostream/" title="Back street - 8"><img src="https://live.staticflickr.com/65535/54417475804_d6a726e16d.jpg" width="375" height="500" alt="Back street - 8"/></a>
 
@@ -36,11 +35,11 @@ Attaching the facades, backs first:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54417284796/in/photostream/" title="Back street - 10"><img src="https://live.staticflickr.com/65535/54417284796_bba80267e4.jpg" width="500" height="375" alt="Back street - 10"/></a>
 
-Hipped roofs are hard to get right, and light inevitably will escape I've learned. So I close the buildings off with a square roof first, and test them for light leaks. 
+Hipped roofs are hard to get right, no matter what mister Chandwell says. And light inevitably will escape from them, I've learned. So I close the buildings off with a square roof first, and test them for light leaks (I built interiors, without taking photographs, silly me : ).
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54416414927/in/photostream/" title="Back street - 11"><img src="https://live.staticflickr.com/65535/54416414927_2cb3af2739.jpg" width="500" height="375" alt="Back street - 11"/></a>
 
-As challange, the last two houses share a roof, on a curve. A curved, hipped roof! I'm proud that it worked in one go.
+As a challenge, the last two houses share a roof - on a curve. A curved, hipped roof! That's taking it next level. I'm proud that it worked in one go!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54416414962/in/photostream/" title="Back street - 12"><img src="https://live.staticflickr.com/65535/54416414962_1ebe513f0d.jpg" width="500" height="375" alt="Back street - 12"/></a>
 

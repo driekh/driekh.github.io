@@ -14,7 +14,7 @@ Naast het gemeentehuis omarmt een oplopende straat het plein, in een bocht. Het 
 
 Dat lijkt te werken, al lijkt het een beetje krap. Ik had de straat net iets wijder kunnen leggen. Maar dat beperkt dan weer de ruimte aan de andere kant, en ik heb geen zin om die er uit te slopen. 
 
-De meeste luiken zijn toe, zoals in het echt. Zo zien de buitenmuren er uit:
+De meeste luiken zijn toe, zoals in het echt. Geeft het idee van een 'muur'. Maar het moeten ook afzonderlijke huizen blijven, met hun eigen karakter - van strak in de lak tot halve bouwval. Zo zien de buitenmuren er dan uit, met variatie in kleuren en technieken:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/driek/54417475929/in/photostream/" title="Back street - 4"><img src="https://live.staticflickr.com/65535/54417475929_9e99724136.jpg" width="500" height="375" alt="Back street - 4"/></a>
 
