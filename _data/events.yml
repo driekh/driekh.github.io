@@ -116,8 +116,10 @@
   url: https://ifnl.nl
   url_label: ifnl website
 - date: 2025-07-06
-  title: "MAZE concert"
+  title: "Slotconcert The Big Sing Summer School - MAZE, Hera en muziektheaterstudenten Codarts"
   place: Haarlem, Nederland
+  url: https://thebigsing.nl/timetable/slotconcert-summer-school-met-o-a-hera-en-maze/
+  url_label: The Big Sing
 - date: 2025-08-29
   title: "MAZE in concert @ Vocalmente festival"
   place: Fossano, Italy
@@ -126,4 +128,4 @@
   place: Gorinchem, Nederland
 - date: 2025-09-20
   title: "MAZE concert"
-  place: Nederland
+  place: Maassluis, Nederland
