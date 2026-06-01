@@ -158,11 +158,8 @@
 - date: 2026-06-10
   title: "MAZE private gig"
   place: Nederland
-- date: 2026-08-01
-  title: "MAZE private gig"
-  place: Nederland
 - date: 2026-09-19
-  title: "MAZE concert"
+  title: "MAZE op hoofdpodium Kraanconcerten"
   place: Vlaardingen, Nederland
 - date: 2026-09-26
   title: "MAZE concert TBA"
@@ -170,9 +167,11 @@
 - date: 2026-10-10
   title: "MAZE concert"
   place: Switzerland
-- date: 2026-12-10
-  title: "MAZE concert TBA"
+- date: 2026-12-11
+  title: "MAZE XMAS concert TBA"
   place: Nederland
 - date: 2027-02-03
   title: "MAZE"
   place: Woerden, Nederland
+  url: https://www.kloosterwoerden.nl/voorstelling/maze-voices-2/
+  url_label: Tickets bij Theater Het Klooster
