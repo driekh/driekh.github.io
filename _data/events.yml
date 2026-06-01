@@ -161,12 +161,16 @@
 - date: 2026-09-19
   title: "MAZE op hoofdpodium Kraanconcerten"
   place: Vlaardingen, Nederland
+  url: https://kraanconcerten.nl/
+  url_label: kraanconcerten.nl
 - date: 2026-09-26
   title: "MAZE concert TBA"
   place: Nederland
 - date: 2026-10-10
-  title: "MAZE concert"
-  place: Switzerland
+  title: "MAZE at VoxPop"
+  place: Luzern, Switzerland
+  url: https://voxpop.ch/
+  url_label: voxpop.ch
 - date: 2026-12-11
   title: "MAZE XMAS concert TBA"
   place: Nederland
