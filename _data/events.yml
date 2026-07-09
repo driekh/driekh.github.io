@@ -169,21 +169,27 @@
   url: https://kraanconcerten.nl/
   url_label: kraanconcerten.nl
 - date: 2026-09-19
-  title: "MAZE concert TBA"
-  place: Nederland
+  title: "Amuse: seizoensopening van de Utrechtse Pieterskerkconcerten"
+  place: Pieterskerk, Utrecht, Nederland
 - date: 2026-09-26
   title: "MAZE concert TBA"
-  place: Nederland
+  place: Hilversum, Nederland
 - date: 2026-10-10
   title: "MAZE at VoxPop"
   place: Luzern, Switzerland
   url: https://voxpop.ch/
   url_label: voxpop.ch
+- date: 2026-11-22
+  title: "The one-day-choir - celebrating 5 years Amare"
+  place: Amare, Den Haag
+- date: 2026-11-26
+  title: Connecting Voices: MAZE en Avi Kaplan, een openbare workshop en concert
+  place: Rotterdam
 - date: 2026-12-18
   title: "MAZE XMAS concert TBA"
-  place: Nederland
+  place: Pieterskerk, Utrecht, Nederland
 - date: 2027-02-03
-  title: "MAZE"
+  title: "Whatcha! MAZE theaterconcert"
   place: Woerden, Nederland
   url: https://www.kloosterwoerden.nl/voorstelling/maze-voices-2/
   url_label: Tickets bij Theater Het Klooster
