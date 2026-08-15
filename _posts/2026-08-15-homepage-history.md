@@ -1,9 +1,9 @@
 ---
-date: '2026-08-16'
+date: '2026-08-15'
 lang: en
 title: Homepage history
 layout: post
-updatedate: '2026-08-16'
+updatedate: '2026-08-15'
 ---
 
 ## Homepage history
