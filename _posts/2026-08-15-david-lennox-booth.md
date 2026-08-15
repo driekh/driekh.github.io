@@ -12,7 +12,7 @@ updatedate: '2026-08-15'
 
 
 > This page was written in 1997 and published on my homepage. last updated in 2001. With the demise of xs4all homepages I copied it here, unchanged.
-See (this blogpost)[https://www.heesk.nl/2026/08/15/homepage-history.html] for more background.
+See [this blogpost](https://www.heesk.nl/2026/08/15/homepage-history.html) for more background.
 
 
 This page is my personal in memoriam for David Lennox Booth.
