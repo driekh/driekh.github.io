@@ -6,9 +6,9 @@ layout: post
 updatedate: '2026-08-15'
 ---
 
-## David Lennox Booth
+# David Lennox Booth
 
-# Edgware 30.1.1927  -  Moylegrove 27.7.1996.
+## Edgware 30.1.1927  -  Moylegrove 27.7.1996.
 
 
 > This page was written in 1997 and published on my homepage. last updated in 2001. With the demise of xs4all homepages I copied it here, unchanged.
@@ -156,7 +156,7 @@ Dear reader, have these pictures touched you in any way?
 
 
 <P ALIGN=CENTER>
-<A HREF="wallet.jpeg"><IMG SRC="wallet.jpeg" ALT="55k size full picture of the wallet" ALIGN=CENTER WIDTH="367" HEIGHT="508" BORDER="0"></A>
+<A HREF="/assets/img/david-lennox-booth/wallet.jpeg"><IMG SRC="/assets/img/david-lennox-booth/wallet.jpeg" ALT="55k size full picture of the wallet" ALIGN=CENTER WIDTH="367" HEIGHT="508" BORDER="0"></A>
 </P>
 
 The wallet that contained the photos. True size is approximately 10 x 7 cm.
