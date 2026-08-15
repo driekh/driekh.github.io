@@ -1,12 +1,12 @@
 ---
 date: '2026-08-16'
 lang: en
-title: An ode to homepage history
+title: Homepage history
 layout: post
 updatedate: '2026-08-16'
 ---
 
-## An ode to the old internet of homepages and personality
+## Homepage history
 
 
 I got online in the early 90s, at first via the uni, then via the first internet provider in the Netherlands, xs4all.
