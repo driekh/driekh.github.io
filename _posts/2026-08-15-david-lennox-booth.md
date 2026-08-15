@@ -3,7 +3,6 @@ date: '2026-08-15'
 lang: en
 title: David Lennox Booth, an in memoriam
 layout: post
-updatedate: '2026-08-15'
 ---
 
 # David Lennox Booth
