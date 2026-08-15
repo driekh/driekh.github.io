@@ -20,8 +20,8 @@ Alas, xs4all is no more, and now even the homepages have disappeared, or are abo
 
 And the first item is a very personal page I put together almost 30 years ago: a little tribute as an im memoriam to the father of my then partner. It's a little time capsule in many ways: I was thirty years younger and my writing was a little cringy (I do hope I sound less pretentious these days), the original was made to work on both Mosaic and non-graphic browsers and was full of table tags... and of course, nowadays this would be a post on social media.
 
-[David Lennox Booth, an im memoriam](https://www.heesk.nl/2026/08/15/david-lennox-booth.html)
+[David Lennox Booth, an in memoriam](https://www.heesk.nl/2026/08/15/david-lennox-booth.html)
 
 
-After putting this page on the web, via mailing lists and webrings it found its way to people who read it - and dozens of netizens contacted me with details of the images, as well as many kind words. It was a tribute to a man who I remember as in a very gentle way happily oldfashioned, so it seems fitting to put it online again in the same vein: as a tribute both to David the man, and to the original spirit of the internet.
+After putting this page on the web, via mailing lists and webrings it found its way to people who read it - and dozens of netizens contacted me with details of the images, as well as many kind words. It was a tribute to a man who I remember as in a very gentle way happily old-fashioned, so it seems fitting to put it online again in the same vein: as a tribute both to David the man, and to the original spirit of the internet.
 

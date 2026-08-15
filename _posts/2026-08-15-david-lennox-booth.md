@@ -1,7 +1,7 @@
 ---
 date: '2026-08-15'
 lang: en
-title: David Lennox Booth, an im memoriam
+title: David Lennox Booth, an in memoriam
 layout: post
 updatedate: '2026-08-15'
 ---
@@ -11,7 +11,7 @@ updatedate: '2026-08-15'
 ## Edgware 30.1.1927  -  Moylegrove 27.7.1996.
 
 
-> This page was written in 1997 and published on my homepage. last updated in 2001. With the demise of xs4all homepages I copied it here, unchanged.
+> This page was written in 1997 and published on my homepage. last updated in 2001. With the demise of xs4all homepages I copied it here, more or less in its original form.
 See [this blogpost](https://www.heesk.nl/2026/08/15/homepage-history.html) for more background.
 
 
